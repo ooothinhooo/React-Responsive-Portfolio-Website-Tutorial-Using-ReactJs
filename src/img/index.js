@@ -27,3 +27,17 @@ export {default as Upwork} from './Upwork.png';
 export {default as Vector1} from './Vector1.png';
 export {default as Vector2} from './Vector2.png';
 export {default as Wave} from './wave.png';
+
+export { default as Key } from "./key.png";
+export { default as Find } from "./find.png";
+
+export { default as Ocit } from "./ocit.png";
+export { default as Lro } from "./lro.png";
+
+export { default as Todo } from "./todo.png";
+
+export { default as Doxang } from "./doxang.png";
+
+
+
+

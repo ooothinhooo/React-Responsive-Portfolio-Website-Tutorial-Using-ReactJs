@@ -7,19 +7,20 @@ import Gitub from "@iconscout/react-unicons/icons/uil-github";
 
 
 function Footer() {
-    return ( 
-        <div className="footer">
-      <img src={Wave} alt="" style={{ width: "100%" }} />
-      <div className="f-content">
-        <span>ooothinhooo154@gmail.com</span>
-        <div className="f-icons">
-          <Insta color="white" size={"3rem"} />
-          <Facebook color="white" size={"3rem"} />
-          <Gitub color="white" size={"3rem"} />
+    return (
+      <div className="footer">
+        <img src={Wave} alt="" style={{ width: "100%" }} />
+        <div className="f-content">
+          {/* <span>ooothinhooo154@gmail.com</span> */}
+          <span>tvthinh.154@gmail.com</span>
+          <div className="f-icons">
+            <Insta color="white" size={"3rem"} />
+            <Facebook color="white" size={"3rem"} />
+            <Gitub color="white" size={"3rem"} />
+          </div>
         </div>
       </div>
-    </div>
-     );
+    );
 }
 
 export default Footer;
